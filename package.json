@@ -1,0 +1,17 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "@nestjs/common": "^8.4.6",
+    "@nestjs/core": "^8.4.6",
+    "@nestjs/platform-fastify": "^8.4.6",
+    "fastify": "^3.24.1",
+    "fastify-multipart": "^5.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.41"
+  }
+}
